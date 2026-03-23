@@ -80,7 +80,7 @@ The trained model file is not included in the repository due to size limitations
 
 Download the model from the following link:
 
-ADD YOUR GOOGLE DRIVE LINK HERE
+[model_link](https://drive.google.com/drive/folders/1NKxFZlYt7oJgxMkGh4ipjOOhGTfyL0q1?usp=sharing)
 
 Place the model file in the root directory:
 crack_pretrained_model.keras
