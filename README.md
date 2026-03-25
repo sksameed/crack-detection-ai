@@ -117,11 +117,11 @@ Deploy the application online
 Enhance UI/UX design
 Integrate real-time video input
 Team
-Your Name (Project Lead)
-Member 1
-Member 2
-Member 3
-Member 4
+Manjari 
+Asha 
+Bhavigna
+Bindhu
+Sameed
 Notes
 The model file is excluded from the repository using .gitignore
 Ensure the model is downloaded and placed correctly before running the application
